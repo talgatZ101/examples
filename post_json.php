@@ -25,8 +25,4 @@
 		}
 	}
 	echo "OK";
-	
-	
-//$data = json_decode($json);
-
 ?>
